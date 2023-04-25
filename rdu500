@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T07:55:50.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="jvhmSUTybVR4f4aI_EWC" version="21.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-25T09:05:39.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="qYwHL0C_-ik4xJOMNK6P" version="21.2.1" type="github" pages="2">
   <diagram name="RDU500" id="rJ8Jv7Fr2exm4m3bDaxw">
-    <mxGraphModel dx="2049" dy="2306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="1624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -497,11 +497,22 @@
             <mxPoint x="373" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iyFkMI_D6cCKB0vM94lH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="iyFkMI_D6cCKB0vM94lH-4" target="W_D6wr-kOzIwRtai1I2C-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="-1100" />
+              <mxPoint x="210" y="-1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyFkMI_D6cCKB0vM94lH-4" value="&lt;b&gt;Paramètre d&#39;appel :&lt;/b&gt;&lt;br&gt;- P_STE : Code Soc&lt;br&gt;- P_ETB : Code etab.&lt;br&gt;-P_BONORI: N° de bon&lt;br&gt;- P_BOAORI : N° de boa&lt;br&gt;- P_CLI : Code Client&lt;br&gt;-P_MOTDIR : Mot directeur&lt;br&gt;-P_DIRECT : Affichage direct" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry y="-1169" width="160" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="MjN8_Rmi4siiguTA0Iny" name="RDU510">
-    <mxGraphModel dx="9560" dy="5307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1132,6 +1143,16 @@
         </mxCell>
         <mxCell id="_OUsf-RTQTyy47MM--CM-4" value="Boucles" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="715" y="80" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t9QmZx1DW625IFCpcjTr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="xNxkiuXuoq8Ztbugal7S-3" target="v1XJI63D_uoB-gPDjtHa-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNxkiuXuoq8Ztbugal7S-3" value="&lt;b&gt;Paramètre d&#39;appel :&lt;/b&gt;&lt;br&gt;- P_STE : Code soc.&lt;br&gt;- P_ETB : Code etab.&lt;br&gt;-P_BON: N° de bon&lt;br&gt;- P_BOA : N° de boa&lt;br&gt;- P_CLI : Code Client&lt;br&gt;-P_MOTDIR : Mot directeur&lt;br&gt;-P_TYPEFAC: Type de fac." style="whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
