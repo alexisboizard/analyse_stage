@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T09:05:12.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="GkHsIttYOeilmmNiVi6x" version="21.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-26T09:39:43.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="deONFuChGta0LZoXGvAd" version="21.2.1" type="github" pages="2">
   <diagram name="RDU500" id="rJ8Jv7Fr2exm4m3bDaxw">
     <mxGraphModel dx="4780" dy="3822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -627,6 +627,30 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="1620" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="P8SFJtCcTwJxkbObVscc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8SFJtCcTwJxkbObVscc-1" target="P8SFJtCcTwJxkbObVscc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8SFJtCcTwJxkbObVscc-1" value="Activation ind 04" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="2910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8SFJtCcTwJxkbObVscc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8SFJtCcTwJxkbObVscc-2" target="P8SFJtCcTwJxkbObVscc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8SFJtCcTwJxkbObVscc-2" value="reset nb enregistrement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="2990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8SFJtCcTwJxkbObVscc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8SFJtCcTwJxkbObVscc-3" target="P8SFJtCcTwJxkbObVscc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8SFJtCcTwJxkbObVscc-3" value="Desactivation ind 04" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="3070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8SFJtCcTwJxkbObVscc-4" value="Activation ind 98" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="3160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8SFJtCcTwJxkbObVscc-8" value="clear_sfl" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135.5" y="2880" width="200" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
